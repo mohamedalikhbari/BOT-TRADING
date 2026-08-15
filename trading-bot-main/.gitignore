@@ -1,7 +1,0 @@
-.venv/
-__pycache__/
-.pytest_cache/
-*.pyc
-data/mt5/*.csv
-data/mt5/*.json
-results/
