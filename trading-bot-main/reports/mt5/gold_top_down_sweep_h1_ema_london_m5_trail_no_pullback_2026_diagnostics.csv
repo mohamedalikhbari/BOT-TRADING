@@ -1,0 +1,138 @@
+key,value
+meta:symbol,XAUUSD
+meta:news_filter,false
+meta:news_required,false
+meta:news_available,false
+meta:require_h1_alignment,false
+meta:structure_mode,1
+meta:m5_confirm_mode,1
+meta:m1_trigger_mode,0
+meta:trading_window_mode,1
+meta:force_close_policy,sydney_0930_or_friday_broker_close_minus_2h
+meta:initial_stop_mode,0
+meta:exit_mode,5
+meta:initial_balance,50000.00
+meta:final_balance,45605.62
+m5_bars_in_window,4275
+bias_active,4271
+h1_filter_bypassed,4271
+h1_confirmed,4271
+veto:no_sweep,4189
+sweep_detected,82
+sweep_m5_level:ASL,16
+sweep_m5_level:PRE_NY_L,16
+sweep_at:2026.01.02 17:10,1
+sweep_level:ASL,16
+sweep_level:PRE_NY_L,16
+sweep_confirmed_m5_only,82
+entry_armed_after_m5_sweep,82
+m1_zone_found,322
+m1_trigger:strict_bos,33
+stop:sweep,33
+orders_placed,18
+orders_filled,18
+position_cycle_completed,18
+sweep_m5_level:PLL,13
+sweep_at:2026.01.07 15:35,1
+sweep_level:PLL,13
+sweep_at:2026.01.07 16:45,1
+reset:m1_choch,42
+sweep_m5_level:PDL,7
+sweep_at:2026.01.07 17:25,1
+sweep_level:PDL,7
+dynamic_stop:target_half_breakeven,5
+dynamic_stop:target_half_trail,354
+sweep_at:2026.01.15 15:55,1
+sweep_at:2026.01.15 16:15,1
+exit:SYDNEY_OPEN_MINUS_30M,1
+sweep_m5_level:ASH,22
+sweep_m5_level:PRE_NY_H,23
+sweep_at:2026.01.16 17:15,1
+sweep_level:ASH,22
+sweep_level:PRE_NY_H,23
+veto:order:entry_rr_min,2
+reset:entry_rr_below_minimum,2
+sweep_at:2026.01.22 15:50,1
+sweep_at:2026.01.23 15:55,1
+sweep_at:2026.01.27 16:20,1
+dynamic_stop:target_90pct_trail,10
+sweep_at:2026.01.29 17:30,1
+sweep_at:2026.02.03 15:40,1
+sweep_at:2026.02.06 16:30,1
+sweep_m5_level:PLH,4
+sweep_at:2026.02.06 16:40,1
+sweep_level:PLH,4
+veto:order:rr_max,13
+reset:rr_above_maximum,13
+sweep_at:2026.02.11 15:35,1
+sweep_at:2026.02.12 17:05,1
+sweep_at:2026.02.13 16:25,1
+sweep_at:2026.02.13 16:40,1
+sweep_m5_level:PDH,3
+sweep_at:2026.02.18 17:10,1
+sweep_level:PDH,3
+sweep_at:2026.02.24 15:45,1
+sweep_at:2026.02.24 16:05,1
+sweep_at:2026.02.24 16:15,1
+sweep_at:2026.02.24 16:40,1
+sweep_at:2026.02.26 16:35,1
+sweep_at:2026.03.04 15:35,1
+sweep_at:2026.03.06 17:55,1
+reset:entry_deadline,7
+sweep_at:2026.03.11 14:40,1
+sweep_at:2026.03.11 15:55,1
+sweep_at:2026.03.12 16:00,1
+sweep_at:2026.03.16 16:10,1
+sweep_at:2026.03.23 14:55,1
+sweep_at:2026.03.25 14:35,1
+sweep_at:2026.04.02 17:25,1
+sweep_at:2026.04.07 15:35,1
+sweep_at:2026.04.08 15:35,1
+sweep_at:2026.04.13 16:55,1
+sweep_at:2026.04.16 16:50,1
+sweep_at:2026.04.16 17:45,1
+sweep_at:2026.04.17 15:35,1
+sweep_at:2026.04.20 17:10,1
+sweep_at:2026.04.20 17:30,1
+sweep_at:2026.04.24 15:35,1
+sweep_at:2026.05.01 17:05,1
+sweep_at:2026.05.05 17:35,1
+sweep_at:2026.05.08 15:35,1
+sweep_at:2026.05.11 16:40,1
+sweep_at:2026.05.12 16:20,1
+sweep_at:2026.05.12 17:05,1
+sweep_at:2026.05.18 16:05,1
+sweep_at:2026.05.18 17:25,1
+sweep_at:2026.05.20 17:25,1
+sweep_at:2026.05.28 17:35,1
+sweep_at:2026.06.01 16:30,1
+sweep_at:2026.06.04 16:50,1
+sweep_at:2026.06.09 16:55,1
+sweep_at:2026.06.25 15:55,1
+sweep_at:2026.06.26 15:40,1
+sweep_at:2026.06.26 16:55,1
+sweep_at:2026.06.29 15:35,1
+sweep_at:2026.06.29 17:30,1
+sweep_at:2026.06.29 17:55,1
+sweep_at:2026.06.30 18:00,1
+sweep_at:2026.07.06 16:10,1
+sweep_at:2026.07.06 17:50,1
+sweep_at:2026.07.09 15:45,1
+sweep_at:2026.07.09 16:00,1
+sweep_at:2026.07.09 17:10,1
+sweep_at:2026.07.10 15:30,1
+sweep_at:2026.07.10 16:40,1
+sweep_at:2026.07.10 17:35,1
+veto:m5:data_quality,4
+sweep_at:2026.07.14 15:55,1
+sweep_at:2026.07.15 16:10,1
+sweep_at:2026.07.15 16:25,1
+sweep_at:2026.07.23 15:35,1
+sweep_at:2026.07.24 16:05,1
+sweep_at:2026.07.24 17:05,1
+sweep_at:2026.07.27 15:30,1
+sweep_at:2026.07.27 16:15,1
+sweep_at:2026.07.31 15:35,1
+sweep_at:2026.07.31 16:15,1
+sweep_at:2026.08.04 15:30,1
+sweep_at:2026.08.06 16:30,1

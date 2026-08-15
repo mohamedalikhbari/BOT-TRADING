@@ -1,0 +1,32 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "xauusd-ny-open-system"
+version = "0.1.0"
+description = "Backtest-grade implementation of the XAU/USD multi-timeframe specification v1.5"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "numpy>=2.1",
+  "pandas>=2.2",
+  "plotly>=6.0",
+]
+
+[project.scripts]
+xau-backtest = "xauusd.cli:main"
+
+[dependency-groups]
+dev = [
+  "pytest>=8.3",
+  "pytest-cov>=6.0",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/xauusd"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+pythonpath = ["src"]

@@ -1,0 +1,72 @@
+[strategy]
+symbol = "XAUUSD"
+server_timezone = "Europe/Athens"
+k_h4 = 3
+k_h1 = 3
+k_m15 = 2
+k_m5 = 2
+k_m1 = 1
+min_break_atr = 0.05
+ema_fast = 21
+ema_slow = 50
+ema_macro = 200
+use_ema_macro = false
+use_ema_h1 = false
+h4_bias_mode = "STRUCTURE_ONLY"
+h1_confirmation_mode = "TREND_ALIGNED"
+min_ema_slope = 0.05
+ema_slope_lookback = 6
+m5_fib_mode = "STRICT"
+m1_trigger_mode = "DISPLACEMENT"
+min_m1_displacement_atr = 0.50
+stop_mode = "LOCAL_STRUCTURE"
+target_mode = "FIRST_VALID_RR"
+min_setup_score = 8
+min_fvg_atr_m1 = 0.15
+min_fvg_atr_m5 = 0.20
+ifvg_max_age_m1 = 30
+ifvg_max_age_m5 = 20
+min_impulse_candles = 2
+min_impulse_atr = 1.0
+min_sweep_atr_m15 = 0.10
+min_wick_ratio_m15 = 0.50
+min_sweep_atr_m5 = 0.10
+min_wick_ratio_m5 = 0.34
+entry_timeout_minutes = 20
+bias_max_age_h4 = 6
+sl_buffer_atr = 0.30
+min_sl_dollars = 1.50
+max_sl_dollars = 6.00
+min_r_multiple = 2.0
+exit_mode = "SCALED"
+max_gap_atr = 3.0
+gap_suspend_bars = 3
+
+[risk]
+initial_balance = 50000.0
+risk_per_trade_pct = 0.005
+max_concurrent_positions = 1
+max_trades_per_day = 2
+max_lot_absolute = 2.0
+daily_loss_limit_pct = 0.05
+max_loss_limit_pct = 0.10
+safety_margin = 0.70
+max_spread = 0.50
+
+[broker]
+contract_size = 100.0
+volume_min = 0.01
+volume_max = 100.0
+volume_step = 0.01
+point = 0.01
+commission_per_lot_round_turn = 0.0
+
+[news]
+required = true
+max_cache_age_hours = 24
+
+[backtest]
+start = "2026-02-01T00:00:00+00:00"
+end = "2026-08-01T00:00:00+00:00"
+data_dir = "data/mt5"
+results_dir = "results/2026-02_2026-07"
