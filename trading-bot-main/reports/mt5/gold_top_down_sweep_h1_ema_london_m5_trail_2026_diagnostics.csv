@@ -1,0 +1,52 @@
+key,value
+meta:symbol,XAUUSD
+meta:news_filter,false
+meta:news_required,false
+meta:news_available,false
+meta:require_h1_alignment,false
+meta:structure_mode,1
+meta:m5_confirm_mode,1
+meta:m1_trigger_mode,0
+meta:trading_window_mode,1
+meta:force_close_policy,sydney_0930_or_friday_broker_close_minus_2h
+meta:initial_stop_mode,0
+meta:exit_mode,5
+meta:initial_balance,50000.00
+meta:final_balance,48534.55
+m5_bars_in_window,4723
+veto:bias:h1_ema21_pullback,4382
+bias_active,337
+h1_filter_bypassed,337
+h1_confirmed,337
+veto:no_sweep,329
+sweep_detected,8
+sweep_m5_level:ASL,4
+sweep_at:2026.03.11 16:10,1
+sweep_level:ASL,4
+sweep_confirmed_m5_only,8
+entry_armed_after_m5_sweep,8
+m1_zone_found,28
+reset:m1_choch,4
+sweep_m5_level:ASH,3
+sweep_at:2026.04.07 15:35,1
+sweep_level:ASH,3
+sweep_m5_level:PRE_NY_H,2
+sweep_at:2026.04.13 16:55,1
+sweep_level:PRE_NY_H,2
+m1_trigger:strict_bos,4
+stop:sweep,4
+orders_placed,3
+orders_filled,3
+position_cycle_completed,3
+sweep_m5_level:PLH,1
+sweep_at:2026.06.09 16:55,1
+sweep_level:PLH,1
+veto:order:entry_rr_min,1
+reset:entry_rr_below_minimum,1
+sweep_at:2026.07.10 17:50,1
+veto:m5:data_quality,4
+sweep_at:2026.07.27 15:30,1
+sweep_m5_level:PRE_NY_L,1
+sweep_at:2026.07.27 16:15,1
+sweep_level:PRE_NY_L,1
+sweep_at:2026.08.06 16:30,1

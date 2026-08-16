@@ -1,0 +1,234 @@
+key,value
+meta:symbol,XAUUSD
+meta:news_filter,false
+meta:news_required,false
+meta:news_available,false
+meta:initial_balance,50000.00
+meta:final_balance,50774.81
+m15_bars_in_window,11288
+bias_active,11276
+veto:h1:h1_trend,5147
+h1_confirmed,5867
+veto:no_sweep,5681
+sweep_detected,186
+sweep_m15_level:PNYH,35
+sweep_at:2021.09.09 15:30,1
+sweep_level:PNYH,35
+sweep_confirmed_both_timeframes,66
+entry_armed_after_m15_m5_sweep,66
+m1_zone_found,214
+m1_trigger:strict_bos,34
+orders_placed,28
+orders_filled,28
+position_cycle_completed,28
+sweep_m15_level:ASL,67
+sweep_m15_level:PRE_NY_L,46
+sweep_at:2021.09.22 15:30,1
+sweep_level:ASL,67
+sweep_level:PRE_NY_L,46
+veto:research_filter:direction_short_only,100
+sweep_at:2021.09.27 17:15,1
+reset:m1_choch,32
+sweep_at:2021.10.01 15:30,1
+sweep_m15_level:ASH,46
+sweep_at:2021.10.06 16:15,1
+sweep_level:ASH,46
+veto:research_filter:missing_pny_or_pre_ny_pool,20
+sweep_m15_level:PDH,14
+sweep_at:2021.10.12 15:30,1
+sweep_level:PDH,14
+veto:h1:h1_swing_violation,262
+sweep_m15_level:PRE_NY_H,39
+sweep_at:2021.11.19 16:15,1
+sweep_level:PRE_NY_H,39
+sweep_at:2021.12.03 16:00,1
+sweep_at:2021.12.08 15:30,1
+sweep_at:2021.12.08 15:45,1
+sweep_at:2021.12.10 15:45,1
+sweep_at:2021.12.21 15:45,1
+sweep_at:2021.12.23 15:45,1
+sweep_at:2021.12.27 17:30,1
+sweep_at:2022.01.07 16:30,1
+sweep_at:2022.01.10 15:30,1
+sweep_at:2022.01.14 16:30,1
+sweep_at:2022.01.24 15:45,1
+sweep_at:2022.02.02 15:30,1
+sweep_at:2022.02.02 16:00,1
+sweep_at:2022.02.02 17:30,1
+sweep_at:2022.02.04 16:15,1
+sweep_at:2022.02.04 16:45,1
+sweep_at:2022.03.07 16:00,1
+sweep_m15_level:PDL,16
+sweep_at:2022.03.09 16:15,1
+sweep_level:PDL,16
+sweep_at:2022.03.31 15:45,1
+sweep_at:2022.04.20 15:30,1
+sweep_at:2022.05.05 17:15,1
+sweep_at:2022.05.17 17:30,1
+sweep_at:2022.05.18 15:30,1
+sweep_m15_level:PNYL,34
+sweep_at:2022.05.18 15:45,1
+sweep_level:PNYL,34
+sweep_at:2022.06.07 15:30,1
+sweep_at:2022.06.08 16:30,1
+sweep_at:2022.06.16 15:45,1
+sweep_at:2022.06.21 15:30,1
+sweep_at:2022.06.27 16:45,1
+sweep_at:2022.06.30 15:45,1
+sweep_at:2022.07.04 16:00,1
+sweep_at:2022.07.07 17:15,1
+exit:SESSION_CLOSE,6
+sweep_at:2022.07.20 16:45,1
+sweep_at:2022.07.21 16:15,1
+sweep_at:2022.07.29 17:15,1
+sweep_at:2022.08.10 15:45,1
+sweep_at:2022.08.11 15:45,1
+sweep_at:2022.08.12 16:15,1
+reset:entry_timeout,6
+sweep_at:2022.09.07 16:00,1
+sweep_at:2022.09.08 16:45,1
+sweep_at:2022.09.20 15:45,1
+sweep_at:2022.10.05 17:00,1
+sweep_at:2022.10.05 17:15,1
+sweep_at:2022.11.29 16:00,1
+sweep_at:2022.12.16 16:15,1
+sweep_at:2022.12.23 15:30,1
+sweep_at:2022.12.27 16:15,1
+sweep_at:2022.12.30 16:15,1
+sweep_at:2023.01.12 15:45,1
+sweep_at:2023.01.20 16:45,1
+sweep_at:2023.01.24 16:00,1
+sweep_at:2023.01.25 15:30,1
+sweep_at:2023.02.07 15:45,1
+sweep_at:2023.02.08 17:00,1
+sweep_at:2023.02.17 17:30,1
+sweep_at:2023.02.20 15:45,1
+sweep_at:2023.02.22 17:30,1
+sweep_at:2023.03.08 15:30,1
+sweep_at:2023.03.14 14:45,1
+sweep_at:2023.03.14 16:00,1
+sweep_at:2023.03.23 15:45,1
+sweep_at:2023.04.12 17:00,1
+sweep_at:2023.04.24 16:15,1
+sweep_at:2023.04.25 16:15,1
+circuit_breaker:five_losses,1
+sweep_at:2023.04.26 17:15,1
+circuit_breaker:resumed_after_48h,1
+sweep_at:2023.05.03 16:00,1
+sweep_at:2023.05.10 15:30,1
+sweep_at:2023.05.26 15:45,1
+sweep_at:2023.06.13 16:45,1
+sweep_at:2023.07.05 17:00,1
+sweep_at:2023.07.19 17:30,1
+sweep_at:2023.08.17 17:00,1
+sweep_at:2023.08.18 17:00,1
+sweep_at:2023.08.21 15:30,1
+sweep_at:2023.08.24 17:15,1
+sweep_at:2023.08.25 17:15,1
+sweep_at:2023.09.01 17:15,1
+sweep_at:2023.09.04 16:15,1
+sweep_at:2023.10.03 15:30,1
+sweep_at:2023.10.03 16:00,1
+sweep_at:2023.10.04 15:30,1
+sweep_at:2023.10.06 16:45,1
+veto:order:no_target,2
+sweep_at:2023.10.10 15:45,1
+sweep_at:2023.10.12 17:15,1
+sweep_at:2023.11.02 16:00,1
+sweep_at:2023.11.28 15:30,1
+sweep_at:2023.11.29 15:30,1
+sweep_at:2023.12.06 17:00,1
+sweep_at:2023.12.14 15:45,1
+sweep_at:2023.12.15 16:00,1
+sweep_at:2023.12.28 17:30,1
+sweep_at:2023.12.29 15:30,1
+sweep_at:2024.01.11 16:15,1
+sweep_at:2024.02.06 15:30,1
+sweep_at:2024.02.06 16:15,1
+sweep_at:2024.02.06 16:30,1
+sweep_at:2024.02.09 15:45,1
+sweep_at:2024.02.13 15:45,1
+sweep_at:2024.03.11 15:15,1
+sweep_at:2024.03.15 15:00,1
+sweep_at:2024.03.18 14:30,1
+sweep_at:2024.03.18 15:30,1
+sweep_at:2024.04.01 17:00,1
+sweep_at:2024.05.01 15:30,1
+sweep_at:2024.05.15 17:15,1
+sweep_at:2024.05.20 16:15,1
+sweep_at:2024.05.31 17:30,1
+sweep_at:2024.06.13 15:45,1
+sweep_at:2024.06.17 16:15,1
+sweep_at:2024.06.19 15:45,1
+veto:m15:data_quality,12
+sweep_at:2024.07.08 16:15,1
+sweep_at:2024.07.08 17:15,1
+sweep_at:2024.07.23 17:15,1
+sweep_at:2024.07.29 17:15,1
+sweep_at:2024.09.04 17:15,1
+sweep_at:2024.09.06 15:45,1
+sweep_at:2024.09.17 16:00,1
+sweep_at:2024.10.07 16:15,1
+sweep_at:2024.10.08 16:45,1
+sweep_at:2024.10.10 15:45,1
+sweep_at:2024.10.23 16:30,1
+sweep_at:2024.10.24 16:00,1
+sweep_at:2024.10.24 16:45,1
+sweep_at:2024.10.30 14:30,1
+sweep_at:2024.10.31 15:00,1
+sweep_at:2024.11.04 16:15,1
+sweep_at:2024.11.07 16:15,1
+order_rejected:10016,1
+sweep_at:2024.11.15 15:30,1
+sweep_at:2024.12.02 16:45,1
+sweep_at:2025.01.06 17:00,1
+sweep_at:2025.01.06 17:30,1
+sweep_at:2025.01.10 15:45,1
+sweep_at:2025.02.07 15:45,1
+sweep_at:2025.02.13 16:00,1
+sweep_at:2025.02.20 16:45,1
+sweep_at:2025.03.12 15:45,1
+sweep_at:2025.04.29 15:30,1
+sweep_at:2025.05.15 16:30,1
+sweep_at:2025.05.26 15:45,1
+sweep_at:2025.05.26 16:30,1
+sweep_at:2025.05.28 16:15,1
+sweep_at:2025.06.03 15:30,1
+sweep_at:2025.06.10 16:00,1
+sweep_at:2025.06.23 17:00,1
+sweep_at:2025.06.25 15:45,1
+sweep_at:2025.07.10 17:00,1
+sweep_at:2025.08.05 16:45,1
+sweep_at:2025.08.06 17:00,1
+sweep_at:2025.08.18 17:15,1
+sweep_at:2025.08.19 16:30,1
+sweep_at:2025.08.22 17:15,1
+sweep_at:2025.09.25 17:00,1
+sweep_at:2025.10.30 14:30,1
+sweep_at:2025.11.03 17:30,1
+sweep_at:2025.11.11 17:30,1
+sweep_at:2025.11.18 16:00,1
+sweep_at:2025.11.25 16:30,1
+sweep_at:2025.12.23 16:15,1
+sweep_at:2025.12.30 15:45,1
+veto:risk:spread,3
+sweep_at:2026.01.16 17:30,1
+sweep_at:2026.01.23 16:00,1
+sweep_at:2026.02.13 15:45,1
+sweep_at:2026.03.11 15:15,1
+sweep_at:2026.03.11 16:00,1
+sweep_at:2026.03.11 16:15,1
+sweep_at:2026.03.16 16:15,1
+sweep_at:2026.03.20 15:15,1
+sweep_at:2026.03.23 15:15,1
+sweep_at:2026.03.23 16:30,1
+sweep_at:2026.03.25 14:45,1
+sweep_at:2026.04.08 15:45,1
+sweep_at:2026.04.16 17:15,1
+sweep_at:2026.04.27 17:15,1
+sweep_at:2026.05.04 17:00,1
+sweep_at:2026.05.05 16:30,1
+sweep_at:2026.06.05 15:30,1
+sweep_at:2026.07.06 16:45,1
+sweep_at:2026.07.29 15:45,1
+sweep_at:2026.08.03 16:00,1

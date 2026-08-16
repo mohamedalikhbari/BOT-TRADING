@@ -1,0 +1,27 @@
+; Native MT5 family screen, development 2022-2024
+InpMode=0||0||1||3||Y
+InpTsmomLookback=252
+InpMaFast=20
+InpMaSlow=260
+InpDonchianEntry=55
+InpDonchianExit=20
+InpEnsembleMinVotes=3
+InpSignalDeadbandATR=0.00
+InpAllowLong=true
+InpAllowShort=true
+InpAtrPeriod=20
+InpInitialStopATR=4.00
+InpUseDailyAtrTrail=true
+InpDailyTrailATR=4.00
+InpMaxHoldingDays=0
+InpRiskPerTradePct=0.005
+InpMaxActualRiskPct=0.020
+InpMaxLotAbsolute=2.00
+InpMaxSpreadDollars=2.00
+InpDailyExecutionDelayMinutes=60
+InpMarginSafetyFraction=0.70
+InpCircuitBreakerDDPct=0.25
+InpMagic=120260900
+InpDeviationPoints=100
+InpMinTradesForCriterion=8
+InpTesterOnly=true
